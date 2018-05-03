@@ -2,12 +2,11 @@
 How to Use SASS with Dart Angular
 
 ## install sassc
-```
-* [brew install sassc](https://github.com/dart-league/dart-sass)
-```
+*[brew install sassc](https://github.com/dart-league/dart-sass)
+
 ## How to use
 1. Depend on it
-Add this to your package's pubspec.yaml file
+Add this to your package's `pubspec.yaml` file
 ```
 dependencies:
    dart_sass_transformer: any
