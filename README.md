@@ -1,4 +1,4 @@
-# use-sass-to-AngularDart
+# วิธีการใช้ sass ใน Dart Angular อย่างง่าย
 How to Use SASS with Dart Angular
 
 ## install sassc
